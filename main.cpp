@@ -12,7 +12,7 @@ int main() {
 
 	printf("playersakusei");
 
-
+	printf("ね～マージしてよ～マージマジマジ");
 
 	return 0;
 
