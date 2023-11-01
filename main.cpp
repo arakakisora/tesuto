@@ -12,9 +12,9 @@ int main() {
 
 	printf("playersakusei");
 
-	printf("ね～マージしてよ～マージマジマジ");
-	printf("ね～マージしてよ～マージマジマジ!!!!!!!!!!");
-	printf("ね～マージしてよ～マージマジマジしてください");
+	printf("マージしてください");
+	printf("マージお願いします");
+	printf("マージ");
 	return 0;
 
 }
