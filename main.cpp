@@ -11,7 +11,7 @@ int main() {
 
 
 	printf("playersakusei");
-
+	printf("ƒ}[ƒW‚µ‚Ä");
 
 
 	return 0;
