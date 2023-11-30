@@ -10,11 +10,11 @@ int main() {
 
 
 
-	printf("playersakusei");
+	printf("playersakuseiï¼†ï¼†ï¼†");
 
-	printf("ƒ}[ƒW‚µ‚Ä‚­‚¾‚³‚¢");
-	printf("ƒ}[ƒW‚¨Šè‚¢‚µ‚Ü‚·");
-	printf("ƒ}[ƒW");
+	printf("ãƒãƒ¼ã‚¸ã—ã¦ãã ã•ã„");
+	printf("ãƒãƒ¼ã‚¸ãŠé¡˜ã„ã—ã¾ã™");
+	printf("ãƒãƒ¼ã‚¸");
 	return 0;
 
 }
